@@ -1,0 +1,10 @@
+C:\Users\Deimo\source\repos\data type 1\data type 1\bin\Debug\data type 1.exe.config
+C:\Users\Deimo\source\repos\data type 1\data type 1\bin\Debug\data type 1.exe
+C:\Users\Deimo\source\repos\data type 1\data type 1\bin\Debug\data type 1.pdb
+C:\Users\Deimo\source\repos\data type 1\data type 1\obj\Debug\data type 1.csproj.AssemblyReference.cache
+C:\Users\Deimo\source\repos\data type 1\data type 1\obj\Debug\data type 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deimo\source\repos\data type 1\data type 1\obj\Debug\data type 1.csproj.CoreCompileInputs.cache
+C:\Users\Deimo\source\repos\data type 1\data type 1\obj\Debug\data type 1.exe
+C:\Users\Deimo\source\repos\data type 1\data type 1\obj\Debug\data type 1.pdb
+C:\Users\Deimo\source\repos\data type 1\data type 1\bin\Debug\EmojiOne.dll
+C:\Users\Deimo\source\repos\data type 1\data type 1\obj\Debug\data type 1.csproj.CopyComplete
